@@ -1,0 +1,23 @@
+{
+  "name": "azir-slider-fork",
+  "version": "1.0.0",
+  "description": "> An advance slider component that should render nicely on any platform. Supports a great level of customization.",
+  "main": "index.tsx",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLchs/Azir-Slider-Fork.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FLchs/Azir-Slider-Fork/issues"
+  },
+  "homepage": "https://github.com/FLchs/Azir-Slider-Fork#readme"
+}
