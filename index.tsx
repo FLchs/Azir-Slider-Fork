@@ -2,7 +2,7 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-nocheck
 import React, { useState, useEffect, useRef } from "react";
-import { withAzir, getColorByName } from "./azir-theme";
+import { withAzir, getColorByName } from "./config";
 import {
   Animated,
   StyleSheet,

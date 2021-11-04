@@ -1,6 +1,6 @@
 {
   "name": "azir-slider-fork",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> An advance slider component that should render nicely on any platform. Supports a great level of customization.",
   "main": "index.tsx",
   "peerDependencies": {
